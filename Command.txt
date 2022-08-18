@@ -1,0 +1,9 @@
+git init
+
+git status
+
+git add -A
+
+git status
+
+git commit -m "log file added "
